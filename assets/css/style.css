@@ -883,7 +883,12 @@ section {
 
 .portfolio .row {
   background-color: #ccc;
-  padding-top:10px;}
+  padding-top:10px;
+}
+
+.portfolio img{
+  border:1px solid gray;
+}
   
 /*--------------------------------------------------------------
 # Pricing
