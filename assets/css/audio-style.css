@@ -1,4 +1,12 @@
 audio { 
-    width: 100%;
     margin: 15px 0px 15px 0px;
-    filter: drop-shadow(5px 10px 8px #00000070);  }
+    filter: drop-shadow(5px 10px 8px #00000070);  
+    width:100%;
+}
+
+.podcast_image{
+    max-width:50%;
+    padding:10px;
+    display: block;
+    margin:auto;
+ }
