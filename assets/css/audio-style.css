@@ -5,8 +5,9 @@ audio {
 }
 
 .podcast_image{
-    max-width:50%;
+    max-width:75%;
     padding:10px;
     display: block;
     margin:auto;
+    margin-bottom:10px;
  }
