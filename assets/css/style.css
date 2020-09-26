@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #111;
 }
 
 a {
@@ -882,13 +882,12 @@ section {
 }
 
 .portfolio .row {
-  background-color: #ccc;
+  background-color: #ed3c0d80;
   padding-top:10px;
+  
 }
 
-.portfolio img{
-  border:1px solid gray;
-}
+
   
 /*--------------------------------------------------------------
 # Pricing
@@ -1231,4 +1230,8 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+.figure-caption{
+  color:#222;
 }
