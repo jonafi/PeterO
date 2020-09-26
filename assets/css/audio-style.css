@@ -6,7 +6,7 @@ audio {
 
 .podcast_image{
     max-width:100%;
-
+    border-radius: 5px;
     display: block;
     margin:auto;
     margin-bottom:10px;
