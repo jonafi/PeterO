@@ -15,3 +15,7 @@ audio {
  .podcast_header{
     padding:20px 0px 5px 0px;
  }
+
+ .song-header{
+     text-align:right;
+ }
